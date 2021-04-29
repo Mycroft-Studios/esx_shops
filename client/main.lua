@@ -86,7 +86,7 @@ Citizen.CreateThread(function()
 			SetBlipAsShortRange(blip, true)
 
 			BeginTextCommandSetBlipName('STRING')
-			AddTextComponentSubstringPlayerName(_U('shops'))
+			AddTextComponentSubstringPlayerName(v.BlipName)
 			EndTextCommandSetBlipName(blip)
 		end
 	end

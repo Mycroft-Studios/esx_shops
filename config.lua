@@ -34,6 +34,7 @@ Config.Zones = {
 	Type  = 59,
 	Color = 25,
 	ShowBlip = true,
+	BlipName = "24/7",
   ShowMarker = true
 },
 
@@ -65,6 +66,7 @@ Config.Zones = {
 	Type  = 59,
 	Color = 25,
 	ShowBlip = true,
+	BlipName = "Robs",
   ShowMarker = true
 },
 
@@ -92,6 +94,7 @@ Config.Zones = {
 	Type  = 59,
 	Color = 25,
 	ShowBlip = true,
+	BlipName = "gasoline",
   ShowMarker = true
 }
 }
